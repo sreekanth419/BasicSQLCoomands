@@ -1,0 +1,6 @@
+students
+
+id  name   age 
+1    sree   25
+2    navan   27
+3    vijji    30
